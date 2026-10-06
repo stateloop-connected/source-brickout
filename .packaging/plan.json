@@ -1,0 +1,14 @@
+{
+  "build_script": "parcel build index.html",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "femiayodeji/brickout",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "a49e2fcb9f368d1abc89fa784a1e5d4550beecfd"
+}
